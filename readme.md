@@ -8,3 +8,9 @@ deno compile --unstable hello.js
 # 编译指定平台
 deno compile --unstable --target x86_64-unknown-linux-gnu hello.js
 ```
+
+## sfs
+
+```bash
+deno compile --unstable --allow-all --target x86_64-unknown-linux-gnu --output dist/sfs sfs.js
+```
