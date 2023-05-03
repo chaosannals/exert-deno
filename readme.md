@@ -1,6 +1,14 @@
 # [exert-deno](https://github.com/chaosannals/exert-deno)
 
 ```bash
+# 更新
+deno upgrade
+```
+
+
+## 示例
+
+```bash
 # 编译命令介绍
 deno compile -h
 # 编译本平台
