@@ -9,6 +9,10 @@ deno upgrade --version 1.0.1
 ```
 
 ```bash
+deno run my.js
+```
+
+```bash
 # 编译命令介绍
 deno compile -h
 # 编译本平台
