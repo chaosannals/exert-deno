@@ -28,6 +28,6 @@ deno compile --unstable --allow-all
 # --allow-net=<allow-net>
 # --allow-ffi=<allow-ffi>
 # --allow-read=<allow-read>
-# --allow-run=<allow-run>
+# --allow-run=<allow-run>  指定用户  --allow-run=www 使用 www 执行
 # --allow-write=<allow-write>
 ```
