@@ -31,3 +31,10 @@ deno compile --unstable --allow-all
 # --allow-run=<allow-run>  指定用户  --allow-run=www 允许 www 执行
 # --allow-write=<allow-write>
 ```
+
+## fresh
+
+```bash
+# 创建项目
+deno run -A -r https://fresh.deno.dev freshdemo
+```
